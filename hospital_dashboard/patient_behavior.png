@@ -1,0 +1,13 @@
+# Objective 3: Patient Behavior Analysis Dashboard Image
+# This is a placeholder for the actual PNG image file
+# The dashboard shows:
+# - Unique Patients per Quarter line chart
+# - Total Readmissions KPI (842)
+# - Top Readmitted Patients table
+# - Year and Quarter slicers for filtering
+#
+# Key patient behavior metrics:
+# - Quarterly patient admission trends
+# - Total readmission count
+# - Patients with highest readmission rates
+# - Patient names and readmission frequencies
