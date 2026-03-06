@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 MGH Hospital Performance Analytics Dashboard
 
 ## 📊 Problem Statement
@@ -258,6 +257,5 @@ For questions or issues with the dashboard implementation:
 3. Verify database connections and refresh schedules
 
 ---
-*Last Updated: March 2026*
-*Dashboard Version: 1.0*
->>>>>>> 3636bbce6d03d519a4b26afe7dbd292e6375e550
+
+*Last Updated: March 2026 | Project Version: 2.0 (Recruiter-Ready)*
