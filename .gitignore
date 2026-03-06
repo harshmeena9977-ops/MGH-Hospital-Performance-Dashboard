@@ -1,9 +1,12 @@
 # Power BI files
 *.pbix
 
-# Data files (large datasets)
-*.csv
-*.sql
+# Large data files (keep in repo for demonstration, but exclude from future commits if needed)
+# data/*.csv  # Comment out if you want to exclude large CSV files
+
+# Database backups
+*.sql.bak
+*.backup
 
 # Operating System files
 .DS_Store
@@ -44,3 +47,7 @@ ENV/
 
 # Logs
 *.log
+
+# Temporary files
+tmp/
+temp/
